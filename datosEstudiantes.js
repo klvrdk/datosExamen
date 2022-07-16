@@ -5,11 +5,11 @@
 },
 {"alumno":"Juan",
 "nota":9.50,
-"ranking":120
+"ranking":20
 },
 {"alumno":"Pedro",
 "nota":9,
-"ranking":105
+"ranking":90
 },
 {"alumno":"Jose",
 "nota":8,
